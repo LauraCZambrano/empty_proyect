@@ -1,0 +1,18 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "version": "1.0.0",
+        "title": "Proyect Empty",
+        "description": ""
+    },
+    "schemes": [
+        "http"
+    ],
+    "host": "localhost:8000",
+    "basePath": "",
+    "paths":{
+    },
+
+    "definitions": {
+    }
+}
